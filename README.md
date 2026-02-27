@@ -1,4 +1,4 @@
-# Christopher Lord
+# [Christopher Lord](https://clord.ca)
 
 Christopher Lord is a software engineer, rancher, and enthusiastic polymath in northeast Alberta. He currently works at [Grafana](https://grafana.com), where he builds observability tools and designs AI-powered investigation systems. Before that, he built compilers at IBM and spent over a decade running his own software company.
 
